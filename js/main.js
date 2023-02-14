@@ -4,8 +4,8 @@ $('.feedback-cards').slick({
         slidesToShow: 3,
         slidesToScroll: 1,
         speed: 800,
-        prevArrow: "<img src='../img/arrow-left.svg' class='prev' alt='1'>",
-        nextArrow: "<img src='../img/arrow-right.svg' class='next' alt='2'>",
+        prevArrow: "<img src='../img/prev-arrow.png' class='prev' alt='< prev'>",
+        nextArrow: "<img src='../img/next-arrow.png' class='next' alt='next >'>",
         responsive: [
             {
             breakpoint: 1240,
